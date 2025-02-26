@@ -30,7 +30,7 @@ I'm a computer science enthusiast with a passion for programming languages and t
 ## 🛠️ Projects
 - [Subjekt](https://github.com/mini-roostico/subjekt) - Generation of textual results with permutating parameters for testing purposes;
 - [img2midi](https://github.com/FreshMag/omr-img2midi) - OMR (Optical Music Recognition) for converting sheet music images into MIDI format;
-- [AgentSeek](https://github.com/FreshMag/AgentSeek)) - Game engine written in Kotlin with AI-controlled agents using Jason;
+- [AgentSeek](https://github.com/FreshMag/AgentSeek) (contributor) - Game engine written in Kotlin with AI-controlled agents using Jason;
 - [Scooby](https://github.com/roostico/scooby) (contributor) - Internal DSL in Scala for web crawling and scraping;
 - [NesGen](https://github.com/roostico/NesGen) (contributor) - NES style music generation through AI.
 
