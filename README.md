@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Francesco
 
 ## 🎓 Education
-Currently studying at the **Università di Bologna**
+Graduated from the Università di Bologna
+I am currently seeking job opportunities to grow and apply my skills
 
 ## 💻 Tech Stack
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
@@ -17,12 +18,12 @@ Currently studying at the **Università di Bologna**
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🚀 About Me
-I'm a computer science enthusiast with a passion for programming languages and their underlying theory. Currently pursuing my degree at the Università di Bologna, I'm focused on expanding my knowledge in various areas of computer science.
+I'm a computer science enthusiast passionate about programming languages and their underlying theory. Currently seeking job opportunities, I'm focused on expanding my knowledge in various areas of computer science.
 
 ## 🔍 Interests
 - **Programming Languages & Compilers**: Fascinated by language design, compiler construction, and DSLs;
 - **Generative AI**: Exploring the intersection of machine learning and creative applications;
-- **Music**: Creating and listening music, particularly classical music.
+- **Music**: Creating and listening to music, particularly classical music.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FreshMag&show_icons=true&theme=radical)
@@ -32,7 +33,7 @@ I'm a computer science enthusiast with a passion for programming languages and t
 - [img2midi](https://github.com/FreshMag/omr-img2midi) - OMR (Optical Music Recognition) for converting sheet music images into MIDI format;
 - [AgentSeek](https://github.com/FreshMag/AgentSeek) (contributor) - Game engine written in Kotlin with AI-controlled agents using Jason;
 - [Scooby](https://github.com/roostico/scooby) (contributor) - Internal DSL in Scala for web crawling and scraping;
-- [NesGen](https://github.com/roostico/NesGen) (contributor) - NES style music generation through AI.
+- [NesGen](https://github.com/roostico/NesGen) (contributor) - NES-style music generation through AI.
 
 <!-- ## 🌐 Connect With Me -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) -->
